@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1486870283 source:c:\users\owner\desktop\clock\cclocktype\clockman.cpp
+	"CClockType.h"
+	<iostream>
+
+1486870056 c:\users\owner\desktop\clock\cclocktype\cclocktype.h
+
+1486870318 source:c:\users\owner\desktop\clock\cclocktype\cclocktypeimpl.cpp
+	"CClockType.h"
+	<iostream>
+
